@@ -9,8 +9,7 @@ output:
 ---
 
 <center> 
-#### This shiny web app-based resource that can be used to interactively explore the data from:
-#### Bo Zeng\#, Xiaoqun Wang\** <i>et al</i>. Unveiling Molecular and Spatial Signatures of Regional Variations in the Human Brain.
+####  Unveiling Molecular and Spatial Signatures of Regional Variations in the Human Brain.
 </center> 
 
 <br>
