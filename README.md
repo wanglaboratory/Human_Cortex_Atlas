@@ -1,8 +1,5 @@
-# Human_Cortex_Atlas
-
-<center> 
-Unveiling Molecular and Spatial Signatures of Regional Variations in the Human Brain.
-</center> 
+## Human_Cortex_Atlas
+# Unveiling Molecular and Spatial Signatures of Regional Variations in the Human Brain.
 
 <br>
 
