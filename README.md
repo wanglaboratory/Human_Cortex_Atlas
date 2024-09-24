@@ -1,12 +1,4 @@
 # Human_Cortex_Atlas
----
-title: "README"
-author: "Bo Zeng"
-date: "23/09/2024"
-output:
-  html_document: default
-  word_document: default
----
 
 <center> 
 ####  Unveiling Molecular and Spatial Signatures of Regional Variations in the Human Brain.
