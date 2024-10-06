@@ -73,7 +73,7 @@ adata_sc_subset.obs['tech'] = 'sc_FL'
 combine_adata = adata_subset.concatenate(adata_sc_subset, batch_key='dataset', batch_categories=['st', 'scrna'])
 
 # Perform PCA and Harmony integration
-npc = 26
+npc = 30
 sc.tl.pca(combine_adata, n_comps=npc)
 sce.pp.harmony_integrate(combine_adata, 'tech')
 print('Harmony integration finished')
@@ -90,7 +90,7 @@ combine_adata_st = combine_adata[combine_adata.obs['dataset'] == 'st'].copy()
 combine_adata_sc = combine_adata[combine_adata.obs['dataset'] == 'scrna'].copy()
 
 # Predict cell types using Nearest Neighbors
-n_neighbors = 5
+n_neighbors = 20
 neigh = NearestNeighbors(n_neighbors=n_neighbors, algorithm='auto').fit(combine_adata_sc.obsm['X_umap'])
 distances, indices = neigh.kneighbors(combine_adata_st.obsm['X_umap'])
 indices_all = np.concatenate(indices)
