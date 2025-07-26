@@ -13,7 +13,7 @@ Evolutionary adaptations in the human cerebral cortex have contributed to our ad
 <br>
 
 # Human_Cortex_Atlas
-Single cell and spatial transcriptional data analysis code used in the manuscript
+Single cell and spatial transcriptional data analysis code used in the manuscript.
 
 ## Python Dependencies
 ```
