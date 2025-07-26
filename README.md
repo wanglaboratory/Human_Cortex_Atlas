@@ -1,15 +1,22 @@
-## Human_Cortex_Atlas
-# Unveiling Molecular and Spatial Signatures of Regional Variations in the Human Brain.
+# Human_Cortex_Atlas
+Single cell and spatial transcriptional data analysis code used in the manuscript
 
-<br>
+# Human_Cortex_Atlas
+Data analysis code used in the manuscript has been deposited at GitHub (https://github.com/wanglaboratory/Human_Cortex_Atlas.git) and is publicly available.
 
-#### Abstract
-Evolutionary adaptations in the human cerebral cortex have contributed to our advanced cognitive abilities, yet the spatial organization and regional diversity of cell types within this complex structure remain inadequately understood. In this study, we present a comprehensive transcriptomic and spatial cell-type atlas of the adult human cortex, integrating single-nucleus transcriptomes and spatially mapping over 1 million cells across 24 cortical regions. Our analysis reveals a higher neuron density in the frontal and temporal lobes, associated with region-specific genes linked to advanced cognitive functions. We identify a unique, region-specific GABAergic neuron subtype (GAD1/2+LAMP5+ MEIS2+) that playa a critical role in cortical functionality and observe distinct regional differences in oligodendrocyte maturation. Additionally, we identify a human-specific subtype of Layer 4/5 IT neurons that is absent in mice, highlighting species-specific cortical specialization. Furthermore, we trace genetic programs that maintain regional identity from development through adulthood and explore the connections between neurological diseases, cell types, and brain regions. This study significantly advances our understanding of the cellular and molecular mechanisms underlying human cortical regional specialization.
+## Python Dependencies
+```
+Python3.9.7, Scanpy1.9.3, Annadata0.8.0
+igraph0.9.10, keras2.7.0, leidenlag0.8.10
+louvain0.7.1, matplotlib3.5.2, numpy1.21.4
+scipy1.7.3, squidpy1.2.2, stagate1.0.1
+tangram1.0.3, tensorflow1.15.0, torch1.13.1
+```
 
-<br>
-
-<center> <img src="./Data/Fig1.jpg" width="95%" /> </center> 
-
+## R Dependencies
+```
+R4.2.2, Seurat5.0.3, SeuratDisk0.9
+```
 <br>
 
 #### Links
