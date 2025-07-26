@@ -1,3 +1,9 @@
+## Human_Cortex_Atlas
+# Unveiling Molecular and Spatial Signatures of Regional Variations in the Human Brain.
+
+<br>
+
+#### Abstract
 Evolutionary adaptations in the human cerebral cortex have contributed to our advanced cognitive abilities, yet the spatial organization and regional diversity of cell types within this complex structure remain inadequately understood. In this study, we present a comprehensive transcriptomic and spatial cell-type atlas of the adult human cortex, integrating single-nucleus transcriptomes and spatially mapping over 1.8 million cells across 24 cortical regions. Our analysis reveals a higher neuron density in the frontal and temporal lobes, associated with region-specific genes linked to critical biological functions. We identify a unique, region-specific GABAergic neuron subtype (GAD1/2+LAMP5+ MEIS2+) that plays a critical role in cortical functionality and observe distinct regional differences in oligodendrocyte maturation. Additionally, we identify a primate-enriched subtype of Layer 4/5 IT neurons that is absent in mice, highlighting species-specific cortical specialization. Furthermore, we trace genetic programs that maintain regional identity from development through adulthood and explore the connections between neurological diseases, cell types, and brain regions. This study significantly advances our understanding of the cellular and molecular mechanisms underlying human cortical regional specialization.
 
 <br>
