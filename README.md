@@ -42,7 +42,7 @@ SeuratDisk0.9
 ```
 
 #### Links
-- **<a href="http://wanglaboratory.org/" target="_blank"> Wang Lab Website</a>**
+- **<a href="http://wanglaboratory.org/" target="_blank"> WangLab Website</a>**
 - The raw data is available to download under the GSA number **<a href="https://ngdc.cncb.ac.cn/gsa-human/s/zfNjgA21" target="_blank"> HRA005677 </a>**.
 - The metadata of human adult cotex samples is available to download **<a href="http://wanglaboratory.org/data/whole_embryo/metadata/Adult_metadata.csv" target="_blank"> HERE</a>**
 
