@@ -23,7 +23,9 @@ torch1.13.1
 
 ## R Dependencies
 ```
-R4.2.2, Seurat5.0.3, SeuratDisk0.9
+R4.2.2
+Seurat5.0.3
+SeuratDisk0.9
 ```
 
 #### Links
