@@ -8,7 +8,7 @@ Evolutionary adaptations in the human cerebral cortex have contributed to our ad
 
 <br>
 
-<center> <img src="./Data/Fig1.jpg" width="95%" /> </center> 
+<center> <img src="./Data/Figure1.jpg" width="95%" /> </center> 
 
 <br>
 
